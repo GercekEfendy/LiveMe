@@ -17,7 +17,7 @@
 
 ### Mostly Used:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gercekefendy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
 
 -------------------------------------------------------
 ### Github Stats
