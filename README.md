@@ -1,4 +1,4 @@
-### 👋 Hi, I Go By Regales
+### 👋 Hi, I Go By Efendy
 - 👀 I’m currently a student
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m currently collaborating on Akasuki and coding Nobel.
@@ -17,37 +17,37 @@
 
 ### Mostly Used:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regales&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gercekefendy&layout=compact&theme=radical)
 
 -------------------------------------------------------
 ### Github Stats
-![regales Stats](https://github-readme-stats.vercel.app/api?username=regales&count_private=true&sow_icons=true&theme=radical)  
+![regales Stats](https://github-readme-stats.vercel.app/api?username=gercekefendy&count_private=true&sow_icons=true&theme=radical)  
 
 -------------------------------------------------------
 ### Reach me here 
 
 
 
-[Discord](https://discord.gg/Zv2haAtKyc)
+[Discord](https://discord.gg/eQRCch5JyM)
 <p align="left">
-<a href="https://discord.gg/xCCpfth">
+<a href="https://discord.gg/eQRCch5JyM">
 
 -------------------------------------------------------
 
-### [Invite My Discord Bot](https://bit.ly/3tF4azp)
+### [Invite My Discord Bot](https://bit.ly/3pyuSey)
 
 
-- [Infomation Of My Discord Bot Nobel](https://github.com/regales-0428/Nobel)
+- [Igoorvoll Bot](https://bit.ly/3pyuSey)
 
-- [Nobel On Top.gg](https://top.gg/bot/820939172491427840)
+- [Marjory Bot](https://bit.ly/3pvZ2io)
 
-[![Discord Bots](https://top.gg/api/widget/owner/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)     [![Discord Bots](https://top.gg/api/widget/status/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)      [![Discord Bots](https://top.gg/api/widget/upvotes/820939172491427840.svg?noavatar=true)](https://top.gg/bot/820939172491427840)
+- [Rafferty Bot](https://bit.ly/3pyuhcQ)
 
 -------------------------------------------------------
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/regales)
+![GitHub metrics](https://metrics.lecoq.io/gercekefendy)
 
 
-**© [Regales](https://github.com/regales-0428)**
+**© [Regales](https://github.com/gercekefendy)**
