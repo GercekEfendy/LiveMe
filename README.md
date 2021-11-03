@@ -50,6 +50,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:gercekefendy@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/bm.blow"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:gercekefendy@gmail.com"><img src="https://img.shields.io/badge/-gercekefendy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/bm.blow"><img src="https://img.shields.io/badge/-@bm.blow-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
